@@ -1,5 +1,5 @@
 Linear Regression Model Comparison
-This repository contains Python code that demonstrates and compares three different implementations of linear regression:
+This contains Python code that demonstrates and compares three different implementations of linear regression:
 
 Custom Linear Regression Model (My_LR): A simple implementation of linear regression from scratch.
 Scikit-learn's LinearRegression: A standard implementation of linear regression using the scikit-learn library.
